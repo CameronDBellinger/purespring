@@ -223,7 +223,7 @@ try {
             $product[0]
         ]);
 
-    }
+    } 
  
 
     $connection_success = true;
