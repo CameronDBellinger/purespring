@@ -221,7 +221,7 @@ try {
             $product[2],
             $product[1],
             $product[0]
-        ]);
+        ]); 
 
     } 
  
